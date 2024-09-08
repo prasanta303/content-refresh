@@ -43,8 +43,6 @@ The architecture of OpenShift Container Platform provides a robust, secure, and 
 
 **References:**
 
+https://code.visualstudio.com/updates/v1_81
 https://docs.redhat.com/en/documentation/openshift_container_platform/3.10/html/architecture/architecture-index#arch-index-what-is-the-architecture
 
-**End:**
-
-The architecture of OpenShift Container Platform provides a robust, secure, and highly extensible foundation for managing containerized applications. Sales teams can leverage this architecture to highlight the platform’s reliability and security features to potential customers. Solution architects can design flexible, scalable solutions tailored to client needs, while delivery teams can ensure efficient deployment and operation of OpenShift environments. Understanding these core architectural principles enables all teams to better serve customers and drive business success.
