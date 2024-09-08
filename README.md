@@ -43,6 +43,4 @@ The architecture of OpenShift Container Platform provides a robust, secure, and 
 
 **References:**
 
-https://docs.redhat.com/en/documentation/openshift_container_platform/3.10/html/architecture/architecture-index#arch-index-what-is-the-architecture
-
-****
+Please refer : https://docs.redhat.com/en/documentation/openshift_container_platform/3.10/html/architecture/architecture-index#arch-index-what-is-the-architecture
