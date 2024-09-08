@@ -3,6 +3,7 @@
 **Introduction:**
 
 The OpenShift Container Platform (OCP) is a powerful, enterprise-ready container orchestration platform built on top of Kubernetes. It features a microservices-based architecture, enabling flexibility, scalability, and robustness in managing containerized applications. Understanding this architecture is essential for sales, solution, and delivery teams to effectively communicate OpenShift's capabilities, address customer requirements, and enhance business opportunities.
+https://docs.redhat.com/en/documentation/openshift_container_platform/3.10/html/architecture/architecture-index#arch-index-what-is-the-architecture
 
 **1. Core Components and Architecture:**
 
